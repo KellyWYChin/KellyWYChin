@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KellyWYChin
-- 👀 I’m interested in Cooking and good Food!!
+- 👀 I’m interested in Life science and Food!!
 - 🌱 I’m currently learning Epidemiology
-- 💞️ I’m looking to collaborate on  Advanced analysis, Computational statistics, R programming, Multivariable regression building, Data Scientist, Epidemiology
+- 💞️ I’m looking to collaborate on Advanced analysis, Computational statistics, Multivariable regression building, Data Scientist, Agriculture
 - 📫 How to reach me: w.chin@students.uu.nl
 
 <!---

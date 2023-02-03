@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KellyWYChin
 - 👀 I’m interested in Life science and Food!!
-- 🌱 I’m currently learning Epidemiology
+- 🌱 I’m currently working in Wageningen Marine Research
 - 💞️ I’m looking to collaborate on Advanced analysis, Computational statistics, Multivariable regression building, Data Scientist, Agriculture
 - 📫 How to reach me: kelly.chin@wur.nl
 
